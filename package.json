@@ -1,0 +1,34 @@
+{
+    "name": "zat-design-token-snippets",
+    "displayName": "zat-design-token-snippets",
+    "description": "zat-design-css库的token字段提示插件",
+    "version": "0.0.1",
+    "publisher": "kinsliy",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "less",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "react",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

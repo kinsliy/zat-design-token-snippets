@@ -1,0 +1,387 @@
+{
+  "全局背景色:@zaui-global-bg": {
+    "prefix": ["@zaui-global-bg"],
+    "body": ["@zaui-global-bg"],
+    "description": "全局背景色"
+  },
+  "标准区块背景色:@zaui-base-bg": {
+    "prefix": "@zaui-base-bg",
+    "body": ["@zaui-base-bg"],
+    "description": "标准区块背景色"
+  },
+  "品牌色:@zaui-brand": {
+    "prefix": "@zaui-brand",
+    "body": ["@zaui-brand"],
+    "description": "品牌色"
+  },
+  "品牌色悬停:@zaui-brand-hover:": {
+    "prefix": "@zaui-brand-hover",
+    "body": ["@zaui-brand-hover"],
+    "description": "品牌色悬停"
+  },
+  "品牌色激活:@zaui-brand-active:": {
+    "prefix": "@zaui-brand-active",
+    "body": ["@zaui-brand-active"],
+    "description": "品牌色激活"
+  },
+  "disabled 品牌色:@zaui-brand-disabled": {
+    "prefix": "@zaui-brand-disabled",
+    "body": ["@zaui-brand-disabled"],
+    "description": "disabled 品牌色"
+  },
+  "顶部 menu 背景色:@zaui-menu-top-bg": {
+    "prefix": "@zaui-menu-top-bg",
+    "body": ["@zaui-menu-top-bg"],
+    "description": "顶部 menu 背景色"
+  },
+
+  "左侧一级 menu 背景色:@zaui-menu-left-bg": {
+    "prefix": "@zaui-menu-left-bg",
+    "body": ["@zaui-menu-left-bg"],
+    "description": "左侧一级 menu 背景色"
+  },
+  "左侧二级 menu 背景色:@zaui-menu-second-bg": {
+    "prefix": "@zaui-menu-second-bg",
+    "body": ["@zaui-menu-second-bg"],
+    "description": "左侧二级 menu 背景色"
+  },
+  "正文文本颜色:@zaui-text": {
+    "prefix": "@zaui-text",
+    "body": ["@zaui-text"],
+    "description": "正文文本颜色"
+  },
+  "弱化的正文信息:@zaui-text-weak": {
+    "prefix": "@zaui-text-weak",
+    "body": ["@zaui-text-weak"],
+    "description": "弱化的正文信息颜色"
+  },
+  "辅助文本颜色:@zaui-aide-text": {
+    "prefix": "@zaui-aide-text",
+    "body": ["@zaui-aide-text"],
+    "description": "辅助文本颜色"
+  },
+  "占位符颜色:@zaui-placeholder": {
+    "prefix": "@zaui-placeholder",
+    "body": ["@zaui-placeholder"],
+    "description": "占位符颜色"
+  },
+  "链接文本颜色:@zaui-link": {
+    "prefix": "@zaui-link",
+    "body": ["@zaui-link"],
+    "description": "链接文本颜色"
+  },
+  "链接文本激活颜色:@zaui-link-light-active": {
+    "prefix": "@zaui-link-light-active",
+    "body": ["@zaui-link-light-active"],
+    "description": "链接文本激活"
+  },
+  // @zaui-line
+  "边框颜色:@zaui-line": {
+    "prefix": "@zaui-line",
+    "body": ["@zaui-line"],
+    "description": "边框颜色"
+  },
+  // @zaui-shadow
+  "阴影颜色:@zaui-shadow": {
+    "prefix": "@zaui-shadow",
+    "body": ["@zaui-shadow"],
+    "description": "阴影颜色"
+  },
+  // @zaui-form-control-line
+  "表单控件边框色:@zaui-form-control-line": {
+    "prefix": "@zaui-form-control-line",
+    "body": ["@zaui-form-control-line"],
+    "description": "表单控件边框色"
+  },
+  // zaui-form-control-line-hover
+  "表单控件边框激活色:@zaui-form-control-line-hover": {
+    "prefix": "@zaui-form-control-line-hover",
+    "body": ["@zaui-form-control-line-hover"],
+    "description": "表单控件边框激活色"
+  },
+  // zaui-form-control-line-active
+  "表单控件边框激活色:@zaui-form-control-line-active": {
+    "prefix": "@zaui-form-control-line-active",
+    "body": ["@zaui-form-control-line-active"],
+    "description": "表单控件边框激活色"
+  },
+  // zaui-list-item-active-bg 列表类型单选选中背景
+  "列表类型单选选中背景色:@zaui-list-item-active-bg": {
+    "prefix": "@zaui-list-item-active-bg",
+    "body": ["@zaui-list-item-active-bg"],
+    "description": "列表类型单选选中背景色"
+  },
+
+  // zaui-list-item-active-hover-bg 列表类型单选选中背景悬停
+  "列表类型单选选中背景悬停色:@zaui-list-item-active-hover-bg": {
+    "prefix": "@zaui-list-item-active-hover-bg",
+    "body": ["@zaui-list-item-active-hover-bg"],
+
+    "description": "列表类型单选选中背景悬停"
+  },
+  // zaui-list-item-selected-bg 列表类型多选被选中背景色
+  "列表类型多选被选中背景色:@zaui-list-item-selected-bg": {
+    "prefix": "@zaui-list-item-selected-bg",
+    "body": ["@zaui-list-item-selected-bg"],
+    "description": "列表类型多选被选中背景色"
+  },
+  // zaui-list-item-selected-hover-bg  列表类型多选被选中背景悬停色
+  "列表类型多选被选中背景悬停色:@zaui-list-item-selected-hover-bg": {
+    "prefix": "@zaui-list-item-selected-hover-bg",
+    "body": ["@zaui-list-item-selected-hover-bg"],
+    "description": "列表类型多选被选中背景悬停色"
+  },
+  // zaui-disabled-bg 禁用背景色
+  "禁用背景色:@zaui-disabled-bg": {
+    "prefix": "@zaui-disabled-bg",
+    "body": ["@zaui-disabled-bg"],
+    "description": "禁用背景色"
+  },
+  // zaui-disabled-text 禁用文本色
+  "禁用文本色:@zaui-disabled-text": {
+    "prefix": "@zaui-disabled-text",
+    "body": ["@zaui-disabled-text"],
+    "description": "禁用文本色"
+  },
+  // zaui-feedback-overlay-bg 漂浮层背景色
+  "漂浮层背景色:@zaui-feedback-overlay-bg": {
+    "prefix": "@zaui-feedback-overlay-bg",
+    "body": ["@zaui-feedback-overlay-bg"],
+    "description": "漂浮层背景色"
+  },
+  // zaui-feedback-overlay-text 漂浮层文本色
+  "漂浮层文本色:@zaui-feedback-overlay-text": {
+    "prefix": "@zaui-feedback-overlay-text",
+    "body": ["@zaui-feedback-overlay-text"],
+    "description": "漂浮层文本色"
+  },
+  // zaui-primary 主要按钮，同品牌色
+  "主要按钮，同品牌色:@zaui-primary": {
+    "prefix": "@zaui-primary",
+    "body": ["@zaui-primary"],
+    "description": "主要按钮，同品牌色"
+  },
+  // zaui-primary-hover 主要按钮，同品牌色悬停
+  "主要按钮悬停颜色:@zaui-primary-hover": {
+    "prefix": "@zaui-primary-hover",
+    "body": ["@zaui-primary-hover"],
+    "description": "主要按钮悬停颜色"
+  },
+  // zaui-primary-active 主要按钮，同品牌色激活
+  "主要按钮激活颜色:@zaui-primary-active": {
+    "prefix": "@zaui-primary-active",
+    "body": ["@zaui-primary-active"],
+    "description": "主要按钮激活颜色"
+  },
+  // zaui-danger-line 失败边框颜色
+  "失败边框颜色:@zaui-danger-line": {
+    "prefix": "@zaui-danger-line",
+    "body": ["@zaui-danger-line"],
+    "description": "失败边框颜色"
+  },
+  // zaui-danger-bg 失败背景色
+  "失败背景色:@zaui-danger-bg": {
+    "prefix": "@zaui-danger-bg",
+    "body": ["@zaui-danger-bg"],
+    "description": "失败背景色"
+  },
+  // zaui-warning-line 警告边框颜色
+  "警告边框颜色:@zaui-warning-line": {
+    "prefix": "@zaui-warning-line",
+    "body": ["@zaui-warning-line"],
+    "description": "警告边框颜色"
+  },
+  // zaui-warning-bg 警告背景色
+  "警告背景色:@zaui-warning-bg": {
+    "prefix": "@zaui-warning-bg",
+    "body": ["@zaui-warning-bg"],
+    "description": "警告背景色"
+  },
+  // zaui-info-line 通知边框颜色
+  "通知边框颜色:@zaui-info-line": {
+    "prefix": "@zaui-info-line",
+    "body": ["@zaui-info-line"],
+    "description": "通知边框颜色"
+  },
+  // zaui-info-bg 通知背景色
+  "通知背景色:@zaui-info-bg": {
+    "prefix": "@zaui-info-bg",
+    "body": ["@zaui-info-bg"],
+    "description": "通知背景色"
+  },
+  // zaui-success-line 成功边框颜色
+  "成功边框颜色:@zaui-success-line": {
+    "prefix": "@zaui-success-line",
+    "body": ["@zaui-success-line"],
+    "description": "成功边框颜色"
+  },
+  // zaui-success-bg 成功背景色
+  "成功背景色:@zaui-success-bg": {
+    "prefix": "@zaui-success-bg",
+    "body": ["@zaui-success-bg"],
+    "description": "成功背景色"
+  },
+  // zaui-danger 失败、错误、告警
+  "失败、错误、告警:@zaui-danger": {
+    "prefix": "@zaui-danger",
+    "body": ["@zaui-danger"],
+    "description": "失败、错误、告警"
+  },
+  // zaui-warning 警告、需注意类型提示
+  "警告、需注意类型提示:@zaui-warning": {
+    "prefix": "@zaui-warning",
+    "body": ["@zaui-warning"],
+    "description": "警告、需注意类型提示"
+  },
+  // zaui-success 成功、成功类型提示
+  "成功、成功类型提示:@zaui-success": {
+    "prefix": "@zaui-success",
+    "body": ["@zaui-success"],
+    "description": "成功、成功类型提示"
+  },
+  // zaui-menu-top-bg 头部菜单栏背景色
+  "头部菜单栏背景色:@zaui-menu-top-bg": {
+    "prefix": "@zaui-menu-top-bg",
+    "body": ["@zaui-menu-top-bg"],
+    "description": "头部菜单栏背景色"
+  },
+  // zaui-menu-left-bg 左边一级菜单栏背景色
+  "左边一级菜单栏背景色:@zaui-menu-left-bg": {
+    "prefix": "@zaui-menu-left-bg",
+    "body": ["@zaui-menu-left-bg"],
+    "description": "左边一级菜单栏背景色"
+  },
+  // zaui-menu-second-bg 左边二级菜单栏背景色
+  "左边二级菜单栏背景色:@zaui-menu-second-bg": {
+    "prefix": "@zaui-menu-second-bg",
+    "body": ["@zaui-menu-second-bg"],
+    "description": "左边二级菜单栏背景色"
+  },
+  // zaui-border-radius 一般圆角大小
+  "一般圆角大小:@zaui-border-radius": {
+    "prefix": "@zaui-border-radius",
+    "body": ["@zaui-border-radius"],
+    "description": "一般圆角大小"
+  },
+  // zaui-border-radius-card 卡片圆角大小
+  "卡片圆角大小:@zaui-border-radius-card": {
+    "prefix": "@zaui-border-radius-card",
+    "body": ["@zaui-border-radius-card"],
+    "description": "卡片圆角大小"
+  },
+  // zaui-font-size-card-title 卡片标题
+  "卡片标题:@zaui-font-size-card-title": {
+    "prefix": "@zaui-font-size-card-title",
+    "body": ["@zaui-font-size-card-title"],
+    "description": "卡片标题"
+  },
+  // zaui-font-size 页面正文
+  "页面正文:@zaui-font-size": {
+    "prefix": "@zaui-font-size",
+    "body": ["@zaui-font-size"],
+    "description": "页面正文"
+  },
+  // zaui-font-size-sm 小控件文字大小
+  "小控件文字大小:@zaui-font-size-sm": {
+    "prefix": "@zaui-font-size-sm",
+    "body": ["@zaui-font-size-sm"],
+    "description": "小控件文字大小"
+  },
+  // zaui-font-size-md 中控件文字大小
+  "中控件文字大小:@zaui-font-size-md": {
+    "prefix": "@zaui-font-size-md",
+    "body": ["@zaui-font-size-md"],
+    "description": "中控件文字大小"
+  },
+  // zaui-font-size-lg 大控件文字大小
+  "大控件文字大小:@zaui-font-size-lg": {
+    "prefix": "@zaui-font-size-lg",
+    "body": ["@zaui-font-size-lg"],
+    "description": "大控件文字大小"
+  },
+  // zaui-font-size-xl 超大控件文字大小
+  "大控件文字大小,卡片与抽屉标题:@zaui-font-size-xl": {
+    "prefix": "@zaui-font-size-xl",
+    "body": ["@zaui-font-size-xl"],
+    "description": "大控件文字大小,卡片与抽屉标题"
+  },
+  // zaui-font-size-xxl 超超大控件文字大小
+  "大控件文字大小,部分场景标题:@zaui-font-size-xxl": {
+    "prefix": "@zaui-font-size-xxl",
+    "body": ["@zaui-font-size-xxl"],
+    "description": "大控件文字大小,部分场景标题"
+  },
+  // zaui-font-size-lg-title 大控件文字大小，页面标题
+  "大控件文字大小,页面标题:@zaui-font-size-lg-title": {
+    "prefix": "@zaui-font-size-lg-title",
+    "body": ["@zaui-font-size-lg-title"],
+    "description": "大控件文字大小，页面标题"
+  },
+  // zaui-space-card 卡片行间距
+  "卡片行间距:@zaui-space-card": {
+    "prefix": "@zaui-space-card",
+    "body": ["@zaui-space-card"],
+    "description": "卡片行间距"
+  },
+  // zaui-space-border 控件行间距
+  "控件行间距:@zaui-space-border": {
+    "prefix": "@zaui-space-border",
+    "body": ["@zaui-space-border"],
+    "description": "控件行间距"
+  },
+  // zaui-space-size-xs 超小间距
+  "超小间距4px:@zaui-space-size-xs": {
+    "prefix": "@zaui-space-size-xs",
+    "body": ["@zaui-space-size-xs"],
+    "description": "超小间距"
+  },
+  // zaui-space-size-sm 小间距
+  "小间距8px:@zaui-space-size-sm": {
+    "prefix": "@zaui-space-size-sm",
+    "body": ["@zaui-space-size-sm"],
+    "description": "小间距"
+  },
+  // zaui-space-size-md 中等（默认）间距
+  "中等（默认）间距16px:@zaui-space-size-md": {
+    "prefix": "@zaui-space-size-md",
+    "body": ["@zaui-space-size-md"],
+    "description": "中等（默认）间距"
+  },
+  // zaui-space-size-lg 大间距
+  "大间距32px:@zaui-space-size-lg": {
+    "prefix": "@zaui-space-size-lg",
+    "body": ["@zaui-space-size-lg"],
+    "description": "大间距"
+  },
+  // zaui-space-size-xl 超大间距
+
+  "超大间距64px:@zaui-space-size-xl": {
+    "prefix": "@zaui-space-size-xl",
+    "body": ["@zaui-space-size-xl"],
+    "description": "超大间距"
+  },
+  // zaui-form-label-width 表单 label 宽度（容纳 8 个全角字符，超过就换行）
+  "表单 label 宽度:@zaui-form-label-width": {
+    "prefix": "@zaui-form-label-width",
+    "body": ["@zaui-form-label-width"],
+    "description": "表单 label 宽度"
+  },
+  // zaui-form-align 表单 label 对齐方式, 默认右对齐
+  "表单 label 默认右对齐:@zaui-form-align": {
+    "prefix": "@zaui-form-align",
+    "body": ["@zaui-form-align"],
+    "description": "表单 label 默认右对齐"
+  },
+  // zaui-line-height-base 字间距行高
+  "字间距行高:@zaui-line-height-base": {
+    "prefix": "@zaui-line-height-base",
+    "body": ["@zaui-line-height-base"],
+    "description": "字间距行高"
+  },
+  // zaui-size 间距倍数
+  "间距倍数:@zaui-size": {
+    "prefix": "@zaui-size",
+    "body": ["@zaui-size"],
+    "description": "间距倍数"
+  }
+}

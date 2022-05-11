@@ -2,9 +2,11 @@
     "name": "zat-design-token-snippets",
     "displayName": "zat-design-token-snippets",
     "description": "zat-design-css库的token字段提示插件",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "license": "MIT",
     "publisher": "kinsliy",
     "repository": {},
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.67.0"
     },

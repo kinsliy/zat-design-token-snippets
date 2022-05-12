@@ -1,36 +1,36 @@
 {
-    "name": "zat-design-token-snippets",
-    "displayName": "zat-design-token-snippets",
-    "description": "zat-design-css库的token字段提示插件",
-    "version": "0.0.2",
-    "license": "MIT",
-    "publisher": "kinsliy",
-    "repository": {},
-    "icon": "images/icon.png",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "less",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
-                "language": "react",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
-                "language": "typescript",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    }
+  "name": "zat-design-token-snippets",
+  "displayName": "zat-design-token-snippets",
+  "description": "zat-design-css库的token字段提示插件",
+  "version": "0.0.3",
+  "license": "MIT",
+  "publisher": "kinsliy",
+  "repository": "https://github.com/kinsliy/zat-design-token-snippets",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "less",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "react",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
 }

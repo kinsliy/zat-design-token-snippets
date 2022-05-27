@@ -29,22 +29,6 @@
     "body": ["@zaui-brand-disabled"],
     "description": "disabled 品牌色,默认值:#99C3FF"
   },
-  "顶部 menu 背景色,默认值:#ffffff": {
-    "prefix": "@zaui-menu-top-bg",
-    "body": ["@zaui-menu-top-bg"],
-    "description": "顶部 menu 背景色,默认值:#ffffff"
-  },
-
-  "左侧一级 menu 背景色,默认值:#1A202D": {
-    "prefix": "@zaui-menu-left-bg",
-    "body": ["@zaui-menu-left-bg"],
-    "description": "左侧一级 menu 背景色,默认值:#1A202D"
-  },
-  "左侧二级 menu 背景色,默认值:#ffffff": {
-    "prefix": "@zaui-menu-second-bg",
-    "body": ["@zaui-menu-second-bg"],
-    "description": "左侧二级 menu 背景色,默认值:#ffffff"
-  },
   "正文文本颜色,默认值:#343434": {
     "prefix": "@zaui-text",
     "body": ["@zaui-text"],
